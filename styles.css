@@ -1,0 +1,18 @@
+h1 {
+  color: black;
+}
+p{
+  text-align: center;
+}
+h2 {
+  color: black;
+  font-style: italic;
+  text-align: left;
+}
+p {
+  font-family: sans-serif;
+  text-align: justify;
+}
+ul {
+  line-height: 20px;
+}
