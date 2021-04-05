@@ -1,5 +1,5 @@
 #  First Independent Project
-Project entails boilerplate code for MPFT41/42 morning stand up session on remote repositories. Languages used are HTML and Custom CSS. Topics covered include HTML tags and Intro to CSS.
+Project entails an about me page. It details my background,education and job experience. Languages used are HTML and Custom CSS. Topics covered include HTML tags and Intro to CSS.
 ## Prerequisites
 Basic Git knowledge, including an installed version of Git.
 ##### Technologies Used
